@@ -1,4 +1,5 @@
-Restler
+Restler [![Build Status](https://travis-ci.org/[danwrong]/[restler].png)](https://travis-ci.org/[danwrong]/[restler])
+
 =======
 
 (C) Dan Webb (dan@danwebb.net/@danwrong) 2011, Licensed under the MIT-LICENSE
