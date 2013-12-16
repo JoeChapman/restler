@@ -1,4 +1,4 @@
-Restler [![Build Status](https://travis-ci.org/[danwrong]/[restler].png)](https://travis-ci.org/[danwrong]/[restler])
+Restler [![Build Status](https://travis-ci.org/danwrong/restler.png)](https://travis-ci.org/danwrong/restler)
 
 =======
 
